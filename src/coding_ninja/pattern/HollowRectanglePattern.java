@@ -1,4 +1,4 @@
-package coding_ninja;
+package coding_ninja.pattern;
 
 public class HollowRectanglePattern {
     static void pattern21(int n)

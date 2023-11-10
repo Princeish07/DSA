@@ -1,9 +1,7 @@
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
 // then press Enter. You can now see whitespace characters in your code.
 
-import coding_ninja.BinarySearch;
 import leet_code.MinCostClimbing;
-import leet_code.MountainArray;
 
 public class Main {
     public static void main(String[] args) {

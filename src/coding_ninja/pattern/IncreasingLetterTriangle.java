@@ -1,19 +1,18 @@
-package coding_ninja;
+package coding_ninja.pattern;
 
 /**
  * Date 30-Oct-2023
  */
-public class AlphaRamp {
+public class IncreasingLetterTriangle {
     public static void nLetterTriangle(int n) {
-        char valueChar = 'A';
 
         for(int i=1;i<=n;i++){
+            char valueChar = 'A';
             for(int j=1;j<=i;j++){
                 System.out.print(valueChar);
+                valueChar+=1;
 
             }
-            valueChar+=1;
-
             System.out.println();
         }
 
@@ -22,4 +21,6 @@ public class AlphaRamp {
     public static void main(String[] args) {
         nLetterTriangle(3);
     }
+
 }
+

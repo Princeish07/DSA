@@ -1,4 +1,4 @@
-package coding_ninja;
+package coding_ninja.pattern;
 
 public class BinarySearch {
     public static int search(int []nums, int target) {

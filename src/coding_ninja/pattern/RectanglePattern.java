@@ -1,4 +1,4 @@
-package coding_ninja;
+package coding_ninja.pattern;
 
 import leet_code.MinCostClimbing;
 

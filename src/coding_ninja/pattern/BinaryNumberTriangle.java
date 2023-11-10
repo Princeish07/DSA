@@ -1,4 +1,4 @@
-package coding_ninja;
+package coding_ninja.pattern;
 
 /**
  * Date :- 26-Oct-2023

@@ -1,4 +1,4 @@
-package coding_ninja;
+package coding_ninja.pattern;
 
 public class AlphaHill {
     public static void nLetterTriangle(int n) {
