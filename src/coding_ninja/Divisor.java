@@ -28,6 +28,7 @@ class GFG {
     public static void main(String args[])
     {
         int n = 4;
+
         System.out.println(divisorSum(n));
         n = 5;
         System.out.println(divisorSum(n));
